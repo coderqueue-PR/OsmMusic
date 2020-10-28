@@ -1,3 +1,3 @@
 # OsmMusic
-Real time music webapplication
+Real time music web application using JavaScript
 demo : https://coderqueue-pr.github.io/OsmMusic/
